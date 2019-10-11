@@ -5,6 +5,11 @@ Linea para compilado:
 g++ Trabajo1.cpp -o trabajo -lglut -lGLU -lGL
 ./trabajo
 
+Se agregan imagenes referenciales
+1,2,3,4
+
+Modo de uso:
+
 Las teclas F1 y F2
 son para la recta y circulo respectivamente
 
