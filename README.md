@@ -2,7 +2,7 @@
 
 Linea para compilado:
 
-g++ trabajo1.cpp -o trabajo -lglut -lGLU -lGL
+g++ Trabajo1.cpp -o trabajo -lglut -lGLU -lGL
 ./trabajo
 
 Las teclas F1 y F2
